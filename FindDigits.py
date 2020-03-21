@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# wyy
 fobj = open("/tmp/String.txt")
 digits = []
 for word in fobj.read():
