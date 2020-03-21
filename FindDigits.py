@@ -5,3 +5,4 @@ for word in fobj.read():
     if word.isdigit():
         digits.append(word)
 print(''.join(digits))
+fobj.close()
